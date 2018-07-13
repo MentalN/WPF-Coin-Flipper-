@@ -1,0 +1,14 @@
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Nawaf\RiderProjects\Practice\WpfApplication1\obj\Debug\WpfApplication1.pdb
